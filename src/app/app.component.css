@@ -1,0 +1,10 @@
+.graph-border{
+    border: 1px solid gray;
+    padding: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.mt-15{
+    margin-top: 15px;
+}
